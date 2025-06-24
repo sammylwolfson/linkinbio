@@ -6,18 +6,20 @@
     "bio": "I'm Matt Cromwell — a WordPress product entrepreneur, Senior Director of Customer Experience at StellarWP, and co-founder of GiveWP. I lead teams, build brands, and design customer-first experiences that scale. I also host WP Product Talk, a podcast focused on helping WordPress product owners grow with confidence. I'm passionate about 3rd wave coffee, piano, disc golf, and faith-centered leadership."
   },
   "social": {
-    "linkedin": "https://linkedin.com/in/mattcromwell",
-    "x": "https://x.com/learnwithmattc",
-    "wordpress": "https://profiles.wordpress.org/webdevmattcrom/",
-    "youtube": "https://youtube.com/@wpproducttalk",
-    "github": "https://github.com/mathetos/",
-    "bluesky": "https://bsky.app/profile/mattcromwell.bsky.social",
+    "discord": "",
+    "linkedin": "https://linkedin.com/in/sammylwolfson",
+    "x": "https://x.com/sammylwolfson",
+    "instagram": "https://www.instagram.com/sammylwolfson",
+    "facebook": "https://www.facebook.com/sammylwolfson",
+    "tiktok": "",
+    "youtube": "https://youtube.com/@sammylwolfson",
+    "twitch": "https://www.twitch.tv/xspeedosamx",
     "email": "https://mattcromwell.com/contact"
   },
   "links": [
     {
-      "title": "WP Product Talk Podcast",
-      "url": "https://wpproducttalk.com"
+      "title": "Wolfson Marketing",
+      "url": "https://wolfsonmarketing.com"
     },
     {
       "title": "StellarWP",
@@ -29,16 +31,16 @@
     },
     {
       "title": "My Writing",
-      "url": "https://mattcromwell.com"
+      "url": "https://sammylwolfson.substack.com"
     }
   ],
   "blog": {
-    "rssFeed": "https://www.mattcromwell.com/feed/",
+    "rssFeed": "https://sammylwolfson.substack.com/feed",
     "wordCount": 75
   },
   "support": {
     "buttonText": "Buy Me a Coffee ☕️",
-    "url": "https://www.buymeacoffee.com/mattcromwell"
+    "url": "coff.ee/sammylwolfson"
   },
   "contact": {
     "buttonText": "Contact Me ✉️",
